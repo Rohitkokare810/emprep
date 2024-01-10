@@ -1,0 +1,14 @@
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\bin\Debug\net6.0\ConsoleAppTwo.exe
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\bin\Debug\net6.0\ConsoleAppTwo.deps.json
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\bin\Debug\net6.0\ConsoleAppTwo.runtimeconfig.json
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\bin\Debug\net6.0\ConsoleAppTwo.dll
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\bin\Debug\net6.0\ConsoleAppTwo.pdb
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.AssemblyInfoInputs.cache
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.AssemblyInfo.cs
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.csproj.CoreCompileInputs.cache
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.dll
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\refint\ConsoleAppTwo.dll
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.pdb
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.genruntimeconfig.cache
+F:\mphasis\phase-4\day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ref\ConsoleAppTwo.dll
